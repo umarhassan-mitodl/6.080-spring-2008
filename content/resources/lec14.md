@@ -5,6 +5,8 @@ description: Lecture notes on probabilistic complexity classes, randomness, and 
 file: /courses/6-080-great-ideas-in-theoretical-computer-science-spring-2008/ab4c8aeadcf4e955784816bab9ee7b65_lec14.pdf
 file_size: 133182
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

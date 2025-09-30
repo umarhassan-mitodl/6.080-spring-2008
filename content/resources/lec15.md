@@ -5,6 +5,8 @@ description: Lecture notes on probabilistic computation, amplification, the Cher
 file: /courses/6-080-great-ideas-in-theoretical-computer-science-spring-2008/747a36bc719ad40af3e74c380efadb89_lec15.pdf
 file_size: 178305
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

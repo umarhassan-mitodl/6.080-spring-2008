@@ -3,6 +3,8 @@ content_type: page
 description: This syllabus section provides information on course meeting times, pedagogy,
   requirements, textbooks, scribe notes, collaboration policy, prerequisites, relation
   to other courses, organization, and lecture topics.
+hide_download: true
+hide_download_original: null
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus
@@ -19,7 +21,7 @@ This course provides a challenging introduction to some of the central ideas of 
 Pedagogy
 --------
 
-Professor Aaronson's teaching statement: ({{% resource_link "e345e73c-601d-4343-8630-8f43dff584fb" "PDF" %}})
+Professor Aaronson's teaching statement: ([PDF](http://scottaaronson.com/teaching.pdf))
 
 Requirements
 ------------
@@ -146,7 +148,7 @@ The only differences are that 6.089 includes a scribe notes requirement whereas 
 Textbooks
 ---------
 
-While the course will not closely follow any textbook, we will sometimes use _Complexity Theory: A Modern Approach_ by Sanjeev Arora and Boaz Barak. A {{% resource_link "348cdd8d-0499-425b-bd69-e52e3a4d87a5" "draft of this new book" %}} is available for free on the Web, and a printed version will be distributed in class. In addition, the following is highly recommended, though not required:
+While the course will not closely follow any textbook, we will sometimes use _Complexity Theory: A Modern Approach_ by Sanjeev Arora and Boaz Barak. A [draft of this new book](http://www.cs.princeton.edu/theory/complexity/) is available for free on the Web, and a printed version will be distributed in class. In addition, the following is highly recommended, though not required:
 
 Sipser, Michael. _Introduction to the Theory of Computation_. 2nd ed. Boston, MA: Course Technology, 2005. ISBN: 9780534950972.
 

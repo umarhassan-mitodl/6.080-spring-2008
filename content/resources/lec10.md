@@ -4,6 +4,8 @@ description: Lecture notes on NP-completeness.
 file: /courses/6-080-great-ideas-in-theoretical-computer-science-spring-2008/1cce8117881c1d1e5a21935bdf76d377_lec10.pdf
 file_size: 134689
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

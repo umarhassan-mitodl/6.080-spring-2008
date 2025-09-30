@@ -5,6 +5,8 @@ description: Lecture notes on circuits, logic gates, finite automata, and nondet
 file: /courses/6-080-great-ideas-in-theoretical-computer-science-spring-2008/a8c1831e26c990901a5fb689d4f4e0d9_lec3.pdf
 file_size: 228652
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

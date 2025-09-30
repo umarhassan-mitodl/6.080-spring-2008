@@ -5,6 +5,8 @@ description: Lecture notes on RSA and language learning in infants, Chomsky, and
 file: /courses/6-080-great-ideas-in-theoretical-computer-science-spring-2008/9e3485207053676496c0dcaca19b7c1e_lec21.pdf
 file_size: 135132
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

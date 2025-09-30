@@ -6,6 +6,8 @@ description: Lecture notes on private-key cryptography, derandomization, cryptog
 file: /courses/6-080-great-ideas-in-theoretical-computer-science-spring-2008/3470bc68972af3bb7a7d656922bdcdfd_lec16.pdf
 file_size: 141211
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
