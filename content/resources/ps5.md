@@ -4,8 +4,6 @@ description: Problem set on theoretical computer science.
 file: /courses/6-080-great-ideas-in-theoretical-computer-science-spring-2008/996d2b96e43243c7778790d07b5269af_ps5.pdf
 file_size: 121057
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

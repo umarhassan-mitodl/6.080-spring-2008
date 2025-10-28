@@ -6,8 +6,6 @@ description: "Lecture notes on public-key cryptography, pseudorandom generators,
 file: /courses/6-080-great-ideas-in-theoretical-computer-science-spring-2008/49e7c65961611249ebac9ce243d14dc4_lec17.pdf
 file_size: 213465
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

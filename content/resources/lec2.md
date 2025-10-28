@@ -4,8 +4,6 @@ description: Lecture notes on logic, proof, Leibniz, and the Calculus Ratiocinat
 file: /courses/6-080-great-ideas-in-theoretical-computer-science-spring-2008/33742c58e0e02d6ae058fc87c4b981d7_lec2.pdf
 file_size: 95687
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

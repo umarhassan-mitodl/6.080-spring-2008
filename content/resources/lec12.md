@@ -4,8 +4,6 @@ description: Lecture notes on space complexity, the P versus NP problem, and ran
 file: /courses/6-080-great-ideas-in-theoretical-computer-science-spring-2008/6a28fe89bb2e34cc97abe80af66155f6_lec12.pdf
 file_size: 160155
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

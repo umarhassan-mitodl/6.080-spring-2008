@@ -6,8 +6,6 @@ description: Lecture notes on polynomial time, computability, complexity, the me
 file: /courses/6-080-great-ideas-in-theoretical-computer-science-spring-2008/6bb9d9288a25008309519b3bc454f79b_lec8.pdf
 file_size: 185083
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

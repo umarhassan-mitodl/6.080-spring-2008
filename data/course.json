@@ -31,7 +31,6 @@
     "website": "6-080-great-ideas-in-theoretical-computer-science-spring-2008"
   },
   "course_title": "Great Ideas in Theoretical Computer Science",
-  "hide_download": true,
   "course_description": "This course provides a challenging introduction to some of the central ideas of theoretical computer science. It attempts to present a vision of \"computer science beyond computers\": that is, CS as a set of mathematical tools for understanding complex systems such as universes and minds. Beginning in antiquity\u2014with Euclid's algorithm and other ancient examples of computational thinking\u2014the course will progress rapidly through propositional logic, Turing machines and computability, finite automata, G\u00f6del's theorems, efficient algorithms and reducibility, NP-completeness, the P versus NP problem, decision trees and other concrete computational models, the power of randomness, cryptography and one-way functions, computational theories of learning, interactive proofs, and quantum computing and the physical limits of computation. Class participation is essential, as the class will include discussion and debate about the implications of many of these ideas.\n",
   "department_numbers": [
     "6"
@@ -42,7 +41,6 @@
     "content": "5b20b1b5-f139-f613-9a76-9332008f4306",
     "website": "6-080-great-ideas-in-theoretical-computer-science-spring-2008"
   },
-  "hide_download_original": true,
   "learning_resource_types": [
     "Lecture Notes",
     "Problem Sets"

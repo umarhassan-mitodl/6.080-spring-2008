@@ -5,8 +5,6 @@ description: Lecture notes on the P versus NP problem, efficient algorithms, the
 file: /courses/6-080-great-ideas-in-theoretical-computer-science-spring-2008/b4daea18581e2c80b9496edeeb3f0bc6_lec9.pdf
 file_size: 169631
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

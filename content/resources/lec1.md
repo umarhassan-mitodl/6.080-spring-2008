@@ -4,8 +4,6 @@ description: Lecture notes with an introduction to computational thinking.
 file: /courses/6-080-great-ideas-in-theoretical-computer-science-spring-2008/f1dad29f41dcf6948f90137e9b0cb19c_lec1.pdf
 file_size: 143373
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

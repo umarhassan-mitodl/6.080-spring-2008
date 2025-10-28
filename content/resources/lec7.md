@@ -6,8 +6,6 @@ description: "Lecture notes on computational complexity, Penrose\u2019s argument
 file: /courses/6-080-great-ideas-in-theoretical-computer-science-spring-2008/4c40dede95d3b2fe07e6aa435b46b471_lec7.pdf
 file_size: 133196
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

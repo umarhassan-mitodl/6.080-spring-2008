@@ -5,8 +5,6 @@ description: "Lecture notes on Turing machines, oracles, Diophantine equations, 
 file: /courses/6-080-great-ideas-in-theoretical-computer-science-spring-2008/2941b1c3c81ee47665e6819c772f82a9_lec5.pdf
 file_size: 174565
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

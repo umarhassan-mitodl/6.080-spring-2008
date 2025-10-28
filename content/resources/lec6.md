@@ -5,8 +5,6 @@ description: Lecture notes on minds and machines, completeness versus incomplete
 file: /courses/6-080-great-ideas-in-theoretical-computer-science-spring-2008/a86c97a52d5c33bae01a3f479e3c627f_lec6.pdf
 file_size: 228622
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

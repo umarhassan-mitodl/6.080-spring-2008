@@ -5,8 +5,6 @@ description: "Lecture notes on quantum algorithms, computing the XOR of two bits
 file: /courses/6-080-great-ideas-in-theoretical-computer-science-spring-2008/67f726eb7e39b1a3b0cd443916d1be29_lec24.pdf
 file_size: 203107
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

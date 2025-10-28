@@ -5,8 +5,6 @@ description: Lecture notes on NP-completeness in practice and computational univ
 file: /courses/6-080-great-ideas-in-theoretical-computer-science-spring-2008/344c96d455763764afe14c2597c3d244_lec11.pdf
 file_size: 120737
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
